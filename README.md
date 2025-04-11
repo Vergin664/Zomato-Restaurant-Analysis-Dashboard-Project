@@ -20,10 +20,10 @@ This project involves designing an interactive business dashboard using the Zoma
 The dashboard provides valuable insights for business stakeholders to understand restaurant performance, customer preferences, and key operational metrics.
 
 **Objectives:**
-Clean and preprocess restaurant data.
-Design an interactive dashboard in Power BI.
-Identify trends in ratings, cuisines, cost, and service availability.
-Present findings in a structured presentation format.
+* Clean and preprocess restaurant data.
+* Design an interactive dashboard in Power BI.
+* Identify trends in ratings, cuisines, cost, and service availability.
+* Present findings in a structured presentation format.
 
 **Step 1: Data Cleaning (Python)**
 File: zomato_data_cleaning.ipynb
