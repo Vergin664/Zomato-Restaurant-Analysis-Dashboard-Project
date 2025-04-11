@@ -36,9 +36,7 @@ The dashboard provides valuable insights for business stakeholders to understand
 * KPI Cards: Average Rating, Total Ratings, Avg Cost, Online Order %, Table Booking %
 * Top Visuals:
 * Pie Chart: Online Order Availability
-* Bar Chart: Top 10 Restaurants by Rating
-           Cuisine Type vs Avg Rating
-           Restaurants by Area
+* Bar Chart: Top 10 Restaurants by Rating ,Cuisine Type vs Avg Rating, Restaurants by Area
 * Table: Restaurant Summary Table
 * Slicers: Area, Cuisine, Online Order, Table Booking
 * Consistent color theme and layout.
