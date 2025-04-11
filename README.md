@@ -1,15 +1,19 @@
 # Zomato-Restaurant-Analysis-Dashboard-Project
 
-Zomato_Dashboard_Project
+**Zomato_Dashboard_Project**
 zomato.csv  --- UnCleaned dataset 
 
-├── zomato_cleaned.csv                 # Cleaned dataset used for analysis
+zomato_cleaned.csv  ---- Cleaned dataset used for analysis
 
-├── zomato_data_cleaning.ipynb         # Python script for data cleaning and preprocessing
-├── Zomato_Dashboard.pbix              # Power BI dashboard file
-├── Zomato_Insights_PPT.pptx           # PPT Presentation summarizing key insights
-├── Zomato_Insights_PDF.pdf            # PDF Presentation summarizing key insights
-└── README_Zomato_Dashboard_Project.md # This README file
+zomato_data_cleaning.ipynb ---- Python script for data cleaning and preprocessing
+
+Zomato_Dashboard.pbix ---- Power BI dashboard file
+
+Zomato_Insights_PPT.pptx ---- PPT Presentation summarizing key insights
+
+Zomato_Insights_PDF.pdf ---- PDF Presentation summarizing key insights
+
+README_Zomato_Dashboard_Project.md ---- This README file
 
 **Project Overview:**
 This project involves designing an interactive business dashboard using the Zomato restaurant dataset. 
